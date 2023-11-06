@@ -1,0 +1,14 @@
+{
+  "name": "cameronthomasweb",
+  "version": "1.0.0",
+  "description": "Cameron's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Rao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
